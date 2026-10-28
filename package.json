@@ -1,0 +1,18 @@
+
+{
+  "name": "skynet-login-backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "24"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "firebase-admin": "^13.6.0",
+    "express-rate-limit": "^8.1.0"
+  }
+}
